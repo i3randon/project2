@@ -1,6 +1,8 @@
 File1 on master
 
-edit from github, edit2 from github
+edit from github, edit2 from github...
 
 
 edit from local master
+
+edit3 from github
